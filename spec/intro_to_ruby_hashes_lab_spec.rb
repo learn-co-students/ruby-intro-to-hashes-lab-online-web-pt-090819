@@ -6,8 +6,9 @@ describe "working with hashes" do
   describe "instantiating" do
     describe "#new_hash" do
       it "creates an empty hash and returns it" do
-
-        expect(new_hash).to eq({})
+          (#epic_trash) 
+          epic_tragedy
+            expect(new_hash).to eq({})
       end
     end
   end
